@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The faith of the fathers, or, The articles of the true religion, all of them exhibited in the express words of the Old Testament partly, to confirm those who do profess that religion of God, and His Messiah, but chiefly, to engage the Jewish nation, unto the religion of their patriarchs, and bring down the hearts of the fathers into the children, and the disobedient unto the wisdome of the Just, and to make ready a people prepared for the Lord / by Cotton Mather.</title>
+            <author>Mather, Cotton, 1663-1728.</author>
+         </titleStmt>
+         <extent>Approx. 37KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50128</idno><idno type="EEBO-CITATION">12561261</idno>
+  <idno type="VID">63208</idno>
+  <idno type="EEBO-PROQUEST">2240950186</idno>
+  
+            <idno type="STC">Wing M1108</idno>
+            <idno type="STC">ESTC W18654</idno>
+            <idno type="OCLC">12561261</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A50128)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 63208)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 768:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The faith of the fathers, or, The articles of the true religion, all of them exhibited in the express words of the Old Testament partly, to confirm those who do profess that religion of God, and His Messiah, but chiefly, to engage the Jewish nation, unto the religion of their patriarchs, and bring down the hearts of the fathers into the children, and the disobedient unto the wisdome of the Just, and to make ready a people prepared for the Lord / by Cotton Mather.</title>
+                  <author>Mather, Cotton, 1663-1728.</author>
+               </titleStmt>
+               <extent>24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by B. Green and J. Allen,</publisher>
+                  <pubPlace>Boston in New-England :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Jews --  Conversion to Christianity.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:63208:1"/>
+            <pb facs="tcp:63208:1"/>
+            <p>
+               <hi>The Faith of the Fathers.</hi>
+            </p>
+            <p>OR, The <hi>Articles</hi> of the True RELIGION, All of them Exhi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ited In the Express Words of the <hi>Old Testament.</hi>
+            </p>
+            <p>Partly, To <hi>Confirm</hi> those who do prof<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ss that RELI<g ref="char:EOLhyphen"/>GION of God, and His MESSIAH.</p>
+            <p>But Chiefly, To Engage the JEWISH NATION, unto the RELIGION of their <hi>Patriarchs;</hi> And, <hi>Bring down the Hearts of the Fathers into the Children, and the Disobedient unto the Wisdom of the Just;</hi> and so, <hi>To make Ready a People prepared for the Lord.</hi>
+            </p>
+            <p>By <hi>COTTON MATHER.</hi>
+            </p>
+            <p>
+               <hi>Beginning at Moses, and all the Prophets, He Expounded unto them, in all the Scriptures, the Things con<g ref="char:EOLhyphen"/>cerning,</hi> THE CHRIST.</p>
+            <p>
+               <hi>BOSTON</hi> in <hi>NEW-ENGLAND.</hi> Printed by <hi>B. Green,</hi> and <hi>J. Allen.</hi> 1699.</p>
+         </div>
+         <div type="epigraph">
+            <pb facs="tcp:63208:2"/>
+            <q>
+               <bibl>Isa. 40.3, 5.</bibl>
+               <hi>Prepare ye the way of the Lord; And the Glory of the Lord, shall be Revealed.</hi>
+            </q>
+            <q>
+               <bibl>The Memorable Words of Rabbi <hi>Samuel Marochianus,</hi> in his Book, about, <hi>The Coming of the Messiah.</hi>
+               </bibl> THE Prophet <hi>Amos</hi> Expressly mentions, that <hi>Fourth Crime</hi> [Amos 2.6.] of, <hi>Selling the Iust one for Silver,</hi> for which we have been in our <hi>Captivity.</hi> It m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nifestly appears to me, that for that Sin of <hi>Selling the Just one,</hi> we are <hi>Justly</hi> punished. It is now a Thousand Years, and more; and in a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l this while, we have made no Good Hand of it among the Gentiles, nor is there any likelihood of our ever any more Coming to Good. O my God I am afraid, I am afraid, Lest the <hi>Iesus,</hi> whom the <hi>Christians</hi> Worship, were the <hi>Iust one Sold for Silver!</hi>
+            </q>
+         </div>
+         <div type="to_the_reader">
+            <pb n="3" facs="tcp:63208:2"/>
+            <head>To the JEWISH Nation.</head>
+            <p>ONE thing that Satisfies Ʋs <hi>Christians,</hi> in the Truth of <hi>Christianity,</hi> is <hi>Your</hi> Obstinate Aversion to that Holy Religion. Our Blessed <hi>JESUS,</hi> the <hi>Author of our Faith,</hi> foretold your continuance under the Circumstances now come upon you, un<g ref="char:EOLhyphen"/>til the <hi>Times of the Gentiles</hi> in the <hi>Four Monarchies,</hi> just now Expiring, are Expired. And your own Inspired Prophets, who are now more <hi>Ours,</hi> than <hi>Yours,</hi> foretold your bei<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> paenally given up to the <hi>Deafness, Blindness; and Hardness</hi> now upon you. But, behold, a Proclamation here sent you from Heaven, invi<g ref="char:EOLhyphen"/>ting you, to persist no longer in your Damnable <hi>Rebellion</hi> against the <hi>CHRIST</hi> of God!
+<pb n="4" facs="tcp:63208:3"/> Here is now put into your Hands, an Irresisti<g ref="char:EOLhyphen"/>ble and Irrefragable <hi>Demonstration,</hi> That tho' you say, You are <hi>Jews,</hi> you are not <hi>so.</hi> If in this <hi>Essay,</hi> the <hi>Common Translation</hi> of any Text, is at all varied from, 'tis done with as Good Authority as any that there is for the <hi>Common Translation;</hi> and most Commonly with the Authority of your own <hi>Jewish Writers.</hi> Be amazed, O ye Rebellious &amp; Rejected People of our Great <hi>Lord Messiah;</hi> We <hi>Christians,</hi> have by the Wonderful Work of God, been brought unto the <hi>Faith of the Fathers;</hi> but you are fallen from that <hi>Faith,</hi> &amp; under <hi>Strong Delusions,</hi> you are <hi>Pining away in your Ini<g ref="char:EOLhyphen"/>quities. Return, O backsliding Israel!</hi> All that we <hi>Christians</hi> desire of you, or for you, (and we <hi>all</hi> desire it!) is, That you would <hi>Return</hi> to the <hi>Faith</hi> of the <hi>Old Testament.</hi> Be it known to you, That if you do not now Sub<g ref="char:EOLhyphen"/>mit unto our Blessed <hi>JESUS,</hi> all the Glori<g ref="char:EOLhyphen"/>ous <hi>Oracles</hi> of the <hi>Old Testament,</hi> will come in, as <hi>Witnesses</hi> against you. In the Name of the Great God, I demand it of you, That you Seriously <hi>Consider</hi> the Things here laid before you; And be now at last Astonish'd, that you have all this while no more <hi>Consider'd</hi> 'em.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="5" facs="tcp:63208:3"/>
+            <head>
+               <hi>The Faith of the Fathers</hi> OR, The Whole RELIGION, of our Blessed Lord <hi>MESSIAH;</hi> Taught, In the Express Words of the <hi>Old Testament.</hi>
+            </head>
+            <p>Quest. <hi>IS there any more than <hi>One God,</hi> the</hi> First Cause, <hi>&amp; the</hi> Last End, <hi>of all things?</hi>
+            </p>
+            <p>
+               <hi>A. No. It is written, Jer. 10.10, 11.</hi> The Lord, <hi>[JEHOVAH,]</hi> He is the True God, He is the Liv<g ref="char:EOLhyphen"/>ing God; The Gods that have not made the Heavens and the Earth, even they shall perish from off the Earth, and from under these Heavens.</p>
+            <p>Q. <hi>Is the One God,</hi> Infinite <hi>in all <hi>Perfections?</hi>
+               </hi>
+            </p>
+            <p>
+               <hi>A. Yes. It is written, Psal. 147.5.</hi> Great is our Lord, and of Great Power, His understanding is Infi<g ref="char:EOLhyphen"/>nite. <hi>And again; Psal. 145.8, 17.</hi> The Lord is Gracious, and full of Compassion; slow to Anger, and of Great Mercy; The Lord is Righteous in all His ways, and Holy in all His works.</p>
+            <p>Q. <hi>Are there not <hi>Three Persons</hi> in the One God; Namely, The LORD, the WORD of the Lord, and the SPIRIT of the Lord?</hi>
+            </p>
+            <p>
+               <hi>A. Yes, It is written, Psal. 33.5, 6.</hi> The Earth is full of the Goodness of the Lord; By the Word of the
+<pb n="6" facs="tcp:63208:4"/> Lord were the Heavens made; And all the Host of them by the Spirit of His Mouth.</p>
+            <p>Q. <hi>Can there be <hi>One God in Three Persons?</hi>
+               </hi>
+            </p>
+            <p>
+               <hi>A. Yes. It is written, Deut. 6.4.</hi> Hear O Israel; The Lord, our God, the Lord, is One.</p>
+            <p>Q. <hi>Hath not God, a <hi>Son?</hi> Or, Is not that</hi> Word <hi>of God, which is the Second Person in God, the <hi>Son of God?</hi>
+               </hi>
+            </p>
+            <p>
+               <hi>A. Yes. It is Written, Prov. 30.4.</hi> Who hath Established all the Ends of the Earth? What is His Name, and what is His Sons Name? <hi>And again, Dan. 3.25.</hi> The Form is like the Son of God.</p>
+            <p>Q <hi>Doth not the</hi> Son <hi>of God, become a <hi>Man;</hi> or, assume a</hi> Man, <hi>to Subsist in <hi>One Person</hi> w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th Himself?</hi>
+            </p>
+            <p>
+               <hi>A. Yes. It is written, Psal. 80.17.</hi> Let thy Hand be upon the Man of thy Right Hand, upon the Son of Man, whom thou madest strong for thy self. <hi>And again, Exod. 15 3.</hi> Jehovah becomes a MAN of War.</p>
+            <p>Q. <hi>Doth not God Intend a Number of <hi>Elect Men,</hi> to be the special</hi> Delight <hi>and</hi> People, <hi>of His</hi> Messiah <hi>thus becoming a</hi> Man?</p>
+            <p>
+               <hi>A. Yes It is written, Prov. 8.22, 23, 30, 31.</hi> Doth not Wisdom Cry? The Lord possessed me, in the Beginning of His way, before His works of old: I was set up from Everlasting; Then I was by Him, and I was daily His Delight, Rejoycing always before Him; Rejoycing in the Habitable part of His Earth, and my Delights were with the Sons of men.</p>
+            <pb n="7" facs="tcp:63208:4"/>
+            <p>Q. <hi>Is there not an Eternal <hi>Covenant</hi> between God the</hi> Father, <hi>and his</hi> Messiah, <hi>concerning His</hi> Elect?</p>
+            <p>
+               <hi>A. Yes. It is written, Psal. 89.3, 4.</hi> I have made a Covenant with my Chosen, I have Sworn to the Beloved, my Servant; Thy Seed will I Establish for ever.</p>
+            <p>Q. <hi>Ha's the <hi>Decree</hi> of God, from</hi> Eternity <hi>pur<g ref="char:EOLhyphen"/>posed, all that in</hi> Time <hi>comes to pass?</hi>
+            </p>
+            <p>
+               <hi>A. Yes It is written, Isa. 46.9, 10.</hi> I am God, and there is none Else; my Counsel shall stand, and I will do all my pleasure.</p>
+            <p>Q. <hi>Was not God the <hi>Creator</hi> of the World, and of</hi> Man <hi>in the World?</hi>
+            </p>
+            <p>
+               <hi>A. Yes. It is written, Gen. 1.1, 27.</hi> In the Be<g ref="char:EOLhyphen"/>ginning, God Created the Heaven and the Earth; And, God Created man in His own Image.</p>
+            <p>Q. <hi>Doth not the <hi>Providence</hi> of God, Extend unto all the parts of His</hi> Creation, <hi>and all their Motions?</hi>
+            </p>
+            <p>
+               <hi>A. Yes. It is written, Dan. 4.35.</hi> He doth ac<g ref="char:EOLhyphen"/>cording to His Will, in the Army of Heaven, and among the Inhabitants of the Earth; and none can stay His Hand, or say unto Him, What doest thou?</p>
+            <p>Q. <hi>Did man <hi>Fall</hi> from God, at the Instiga<g ref="char:EOLhyphen"/>tion of</hi> Satan, <hi>soon after His Maker placed him in</hi> Paradise?</p>
+            <p>
+               <hi>A. Yes. It is written, Gen 32.3, 4, 5, 6.</hi> The Woman said unto the Serpent, we may Eat of the Fruit of the Trees of the Garden; But of the Fruit of
+<pb n="8" facs="tcp:63208:5"/> the Tree, which is in the midst of the Garden, God hath said, ye shall not Eat of it, neither shall ye touch it, lest ye Dy. And the Serpent said, ye shall not surely Dy; ye shall be as Gods, knowing Good &amp; Evil. And when the Woman saw, that the Tree was Good for Food, and that it was pleasant unto the Eyes, and a Tree to be desired, to make one wise, she took of the Fruit thereof, and did Eat, and gave also unto her Husband, and he did Eat.</p>
+            <p>Q. <hi>Is the <hi>First Sin</hi> of the</hi> First Man, <hi>whom God made our</hi> Common Head, <hi>now justly</hi> Imputed <hi>unto all the Children of men?</hi>
+            </p>
+            <p>
+               <hi>A. Yes. It is written, Isa. 43 27, 28.</hi> Thy First Father hath Sinned; Therefore I have given Jacob to the Curse.</p>
+            <p>Q. <hi>Is every man, that is by ordinary Genera<g ref="char:EOLhyphen"/>tion Descended from</hi> Sinful Adam, <hi>Depraved with <hi>Original Sin?</hi>
+               </hi>
+            </p>
+            <p>
+               <hi>A. Yes. It is written, Gen. 8.21.</hi> The Imagi<g ref="char:EOLhyphen"/>nation of mans Heart, is Evil from his Youth.</p>
+            <p>Q. <hi>Can any man, Depraved with</hi> Sin, Perfect<g ref="char:EOLhyphen"/>ly keep <hi>the</hi> Commandments <hi>of God, or make <hi>him<g ref="char:EOLhyphen"/>self Righteous?</hi>
+               </hi>
+            </p>
+            <p>
+               <hi>A. No. It is written, Eccl. 7.20</hi> There is not a Righteous man upon Earth, that doth Good, and Sinneth not.</p>
+            <p>Q. <hi>If a man be not</hi> Righteous, <hi>but</hi> Wicked, <hi>is not the Everlasting Wrath of God in <hi>Hell,</hi> the portion of that man?</hi>
+            </p>
+            <p>
+               <hi>A. Yes. It is written, Psal. 9.17.</hi> The wicked shall be turned into Hell.</p>
+            <pb n="9" facs="tcp:63208:5"/>
+            <p>Q. <hi>Did God Promise, that His</hi> Messiah, <hi>should be</hi> Born of a Woman, <hi>and suffer <hi>Bruises,</hi> to deli<g ref="char:EOLhyphen"/>ver His people, from the mischiefs done by Satan unto them, in their</hi> Fall?</p>
+            <p>
+               <hi>A. Yes. It is written Gen 3.15.</hi> The Lord God said unto the Serpent, I wi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l put Enmity between thee and the woman, and between thy Seed and her Seed; It shall Bruise thy Head, and Thou shalt Bruise his Heel.</p>
+            <p>Q. <hi>Must the</hi> Messiah, <hi>that</hi> Suffers <hi>for us, be <hi>God,</hi> as well as</hi> Man, <hi>that so there may be infi<g ref="char:EOLhyphen"/>nite</hi> Merits <hi>in His</hi> Obedience, <hi>and that so He may be able to convey all the</hi> Blessings <hi>purchased by His</hi> Obedience?</p>
+            <p>
+               <hi>A. Yes. It is written, Psal. 45.6, 7.</hi> Thy Throne, O God, is for ever and ever; Thy God hath Anointed thee with the Oyl of Gladness above thy Fellows. <hi>And again, Isa. 9.6.</hi> His Name shall be called, Wonderful, Counsellour, God, The Mighty, The Everlasting Father, The Prince of Peace. <hi>And again, Zech. 13.7.</hi> Awake O Sword, against my Shepherd, and against the Man that is my Equal, saith the Lord of Hosts. <hi>And again, Mal 2 15.</hi> Did not He make One? Yet had He the Residue of the Spirit; And wherefore One? That He might seek the Seed, who is God. <hi>And again, Psal 2.12.</hi> Kiss the Son; Blessed are all they that put their Trust in Him <hi>With Jer 17.5.</hi> Cursed is the man that Trusteth in Man</p>
+            <p>Q. <hi>Were the <hi>Sufferings</hi> of the</hi> Messiah, <hi>by
+<pb n="10" facs="tcp:63208:6"/> Humbling</hi> Stripes <hi>from the</hi> Rod of God, <hi>necessa<g ref="char:EOLhyphen"/>ry to Redeem His People, from the</hi> Wrath of God, <hi>which they Incur by</hi> Falling <hi>into</hi> Sin?</p>
+            <p>
+               <hi>A. Yes. It is written, Psal. 89.26, 27, 30, 31, 32.</hi> He shall <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y unto me, Thou art my Father: Al<g ref="char:EOLhyphen"/>so I will make Him my First born, Higher than the Kings of the Earth. His Seed also will I render Eternal. But if His Children Forsake my Law, and walk not in my Judgments; if they break my Statutes, and keep not my Commandments; Then will I visit their Transgression with the Rod, and their Iniquity with stripes.</p>
+            <p>Q. <hi>The <hi>Time</hi> for the</hi> Messiah's <hi>Appearance, or, the</hi> Birth <hi>of the</hi> Promised Seed; <hi>must it be, while the</hi> Jewish Nation <hi>should yet Enjoy <hi>Governours,</hi> and <hi>Law-givers,</hi> of their own, and a</hi> Civil Polity <hi>among themselves?</hi>
+            </p>
+            <p>
+               <hi>A. Yes. It is written, Gen. 49.10.</hi> The Scep<g ref="char:EOLhyphen"/>ter shall not depart from Judah, nor a Law-giver from between his Feet, until Shiloh come.</p>
+            <p>Q. <hi>Was the</hi> Messiah <hi>to be Born, while the <hi>Second Temple</hi> was yet Standing?</hi>
+            </p>
+            <p>
+               <hi>A. Yes. It is written, Hag. 2.7, 9.</hi> I will shake all Nations, and the Desire of all Nations shall come, and I will fill This House, with Glory, saith the Lord of Hosts. The Glory of this Latter House shall be greater than of the Former, saith the Lord of Hosts.</p>
+            <p>Q. <hi>Was the</hi> Messiah <hi>to be Born, <hi>Shortly</hi> after the <hi>Last Book</hi> of the Old Testament was written?</hi>
+            </p>
+            <pb n="11" facs="tcp:63208:6"/>
+            <p>
+               <hi>A. Yes. It is written, Mal. 3.1.</hi> The Lord whom ye seek, shall suddenly come to His Temple.</p>
+            <p>Q. <hi>Was the</hi> Messiah <hi>to be Born, within <hi>Four Hundred and Ninety Years,</hi> after the going forth of the</hi> Pers<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>an Proclamations, <hi>to Rebuild</hi> Jerusalem.</p>
+            <p>
+               <hi>A. Yes. It is written, Dan. 9.25.</hi> From the going forth of the Commandment, to Restore and to build Jerusalem, unto the Messiah the Prince, shall be Seven Weeks, and Threescore and Two Weeks; and after the Threescore and Two Weeks, shall Messiah be cut off.</p>
+            <p>Q. <hi>Must there be <hi>Two Comings</hi> of the</hi> Messiah?</p>
+            <p>
+               <hi>A. Yes. It is written, Zech. 9 9.</hi> Behold thy King cometh unto thee, Lowly, and Riding upon an Ass. <hi>And again; Dan. 7.13.</hi> Behold, one like the Son of Man, came with the Clouds of Heaven. <hi>And thus, it is written, Psal. 96.13.</hi> Rejoyce before the Lord; for He cometh; for <hi>(a Second time)</hi> He cometh to Judge the Earth.</p>
+            <p>Q. <hi>Was the <hi>Conception</hi> of the</hi> Messiah, <hi>to be in one of the Cities belonging to the</hi> Ten Tribes: (<hi>namely,</hi> Nazareth!)</p>
+            <p>
+               <hi>A. Yes. It is written, Jer. 31.21, 22.</hi> Turn again, O Virgin of Israel, Turn again to these thy Cities; For the Lord hath Created a New Thing in the Earth; A Woman <hi>(Alone)</hi> shall Conceive a Man.</p>
+            <p>Q. <hi>Was the <hi>Nativity</hi> of the</hi> Messiah, <hi>to be
+<pb n="12" facs="tcp:63208:7"/> in</hi> Bethlehem, <hi>one of the Cities belonging to the</hi> Two Tribes?</p>
+            <p>
+               <hi>A. Yes. It is written, Micah 5.2.</hi> Thou Beth<g ref="char:EOLhyphen"/>lehem Ephratah, It is a Small Thing to be among the Thousands of Judah; but of thee shall he come forth unto me, that is to be the Ruler in Israel.</p>
+            <p>Q. <hi>Was the</hi> Messiah <hi>to be Born of a <hi>Virgin?</hi>
+               </hi>
+            </p>
+            <p>
+               <hi>A. Yes. It is written, Isa. 7.14.</hi> The Lord Himself shall give you a Sign: Behold, A Virgin shall conceive, and bear a Son, and shall call His Name Immanuel.</p>
+            <p>Q. <hi>Was the</hi> Messiah, <hi>to Work many and mighty <hi>Miracles,</hi> at His Appearing?</hi>
+            </p>
+            <p>
+               <hi>A. Yes. It is written, Isa. 35.4, 5, 6.</hi> God, the Recompence, He will come, and Save you. Then the Eyes of the Blind shall be opened, and the Ears of the Deaf shall be unstopped; Then shall the Lame leap as an Hart, and the Tongue of the Dumb shall Sing.</p>
+            <p>Q. <hi>Was the</hi> Messiah <hi>to be a</hi> Publick Preacher <hi>of the Gospel, <hi>Three years and an Half,</hi> and then to</hi> Dy <hi>for His Gospel?</hi>
+            </p>
+            <p>
+               <hi>A. Yes. It is written, Dan. 9.26, 27.</hi> The Messiah shall be cut off; He shall confirm the Cove<g ref="char:EOLhyphen"/>nant with many for one Week, and in the midst of the Week, He shall cause the Sacrifice, and the Obla<g ref="char:EOLhyphen"/>tion to cease.</p>
+            <p>Q. <hi>When the</hi> Messiah <hi>comes to work out our Salvation, at</hi> Jerusalem; <hi>Is He to Ride into</hi> Je<g ref="char:EOLhyphen"/>rusalem <hi>upon, a <hi>Colt, the Fole of an Ass?</hi>
+               </hi>
+            </p>
+            <p>
+               <hi>A. Yes. It is written, Zech. 9.9.</hi> Behold, thy
+<pb n="13" facs="tcp:63208:7"/> King cometh unto thee; He is Just, and having Salvation; Lowly, and Riding upon an Ass, upon a Colt, the Fole of an Ass.</p>
+            <p>Q. <hi>When the</hi> Messiah <hi>first Appears to the</hi> Jewish Nation, <hi>is He to be <hi>Despised and Re<g ref="char:EOLhyphen"/>jected</hi> of that Nation?</hi>
+            </p>
+            <p>
+               <hi>A. Yes. It is written, Isa. 53.2, 3.</hi> When we shall see Him, there is no Beauty, that we should de<g ref="char:EOLhyphen"/>sire Him; He is Despised and Rejected of men, a Man of Sorrows, and Acquainted with Grief; And we hid as it were our Faces from Him; He was Despised, and we Esteemed Him not.</p>
+            <p>Q. <hi>Was the</hi> Messiah <hi>to be <hi>Betray'd</hi> into the Hands of His</hi> Murderers, <hi>by one of His own</hi> Disciples.</p>
+            <p>
+               <hi>A. Yes. It is written, Psal. 41.9.</hi> Mine own Familiar Friend, which did Eat of my Bread, hath lift up His Heel against me.</p>
+            <p>Q. <hi>Was the</hi> Messiah <hi>to be</hi> Sold, <hi>for <hi>Thirty Pieces</hi> of</hi> Silver, <hi>and a</hi> Potters Field <hi>afterwards bought for those <hi>Thirty Pieces?</hi>
+               </hi>
+            </p>
+            <p>
+               <hi>A. Yes. It is written, Zech. 11.12, 13.</hi> They weighed for my Price Thirty Pieces of Silver. And the Lord said unto me, Cast it unto the Potter; A Goodly price, that I was prized at of them!</p>
+            <p>Q. <hi>Was the</hi> Messiah <hi>notwithstanding His</hi> Do<g ref="char:EOLhyphen"/>ing all things well, <hi>to be <hi>Tryed</hi> and <hi>Iudged,</hi> as an</hi> Evil doer?</p>
+            <p>
+               <hi>A. Yes. It is written, Isa. 53.8.</hi> He was taken from Prison, and from Judgment; He was cut off out of the Land of the Living.</p>
+            <pb n="14" facs="tcp:63208:8"/>
+            <p>Q. <hi>Was the</hi> Messiah <hi>to be wonderfully <hi>Silent</hi> and <hi>Patient,</hi> under the False Accusations, with which His Accusers Load Him?</hi>
+            </p>
+            <p>
+               <hi>A. Yes. It is written, Isa. 53.7.</hi> He was Op<g ref="char:EOLhyphen"/>pressed, and He was Afflicted; yet He opened not His Mouth; He is brought, as a Lamb to the Slaugh<g ref="char:EOLhyphen"/>ter, and as a Sheep before her Shearers is Dumb, so He opened not His Mouth.</p>
+            <p>Q. <hi>Was the</hi> Messiah <hi>to be further Afflicted, with <hi>Vinegar and Gall</hi> given Him to</hi> Drink, <hi>in the midst of His</hi> Afflictions?</p>
+            <p>
+               <hi>A. Yes. It is written, Psal. 69.21.</hi> They gave me Gall, for my meat, and in my Thirst, they gave me Vinegar to Drink.</p>
+            <p>Q. <hi>Was the</hi> Messiah <hi>to be Stipt and Robb'd of His <hi>Garments,</hi> by those that would</hi> Cast Lotts <hi>upon them?</hi>
+            </p>
+            <p>
+               <hi>A. Yes. It is written, Psal. 22.18.</hi> They part my Garments among them, and cast Lots upon my Vesture.</p>
+            <p>Q. <hi>Was the</hi> Messiah <hi>to be <hi>Buffeted,</hi> and <hi>Scourged,</hi> and <hi>Spit</hi> upon?</hi>
+            </p>
+            <p>
+               <hi>A. Yes. It is written, Isa. 50.6.</hi> I gave my Back to the Smiters, and my Cheeks to them that pulled off the Hair; I hid not my Face from Shame and Spitting.</p>
+            <p>Q. <hi>Were the</hi> Sensible Manifestations <hi>of the</hi> Di<g ref="char:EOLhyphen"/>vine Love <hi>be for a while, Sadly with drawn from the</hi> Messiah: <hi>and being thus Deserted, was He under an</hi> Eclipse, <hi>to Lament His <hi>Desertion?</hi>
+               </hi>
+            </p>
+            <pb n="15" facs="tcp:63208:8"/>
+            <p>
+               <hi>A. Yes. It is written, Psal. 22.1.</hi> My God, my God, why hast thou forsaken me?</p>
+            <p>Q. <hi>Was the</hi> Messiah, <hi>to be <hi>Crucified,</hi> or, to undergo a</hi> Death, <hi>wherein His</hi> Hands <hi>and His</hi> Feet, <hi>should be Nailed unto a</hi> Cross?</p>
+            <p>
+               <hi>A. Yes. It is written, Psal. 22.16.</hi> They pierced my Hands and my Feet.</p>
+            <p>Q. <hi>Was the most Innocent</hi> Messiah, <hi>to be joyned in His Death, with the worst of <hi>Male<g ref="char:EOLhyphen"/>factors?</hi>
+               </hi>
+            </p>
+            <p>
+               <hi>A. Yes. It is written, Isa. 53.12.</hi> He hath poured out His Soul unto Death, and He was Num<g ref="char:EOLhyphen"/>bred with the Transgressors.</p>
+            <p>Q. <hi>Tho' the</hi> Messiah <hi>was condemned unto a Death, wherein the</hi> Bones <hi>of tho miserable use to be</hi> Broken, <hi>yet was <hi>not a Bone of Him to be Broken?</hi>
+               </hi>
+            </p>
+            <p>
+               <hi>A. No. It is written, Psal. 34.19, 20.</hi> Many are the Afflictions of the Just one, but the Lord de<g ref="char:EOLhyphen"/>livereth Him out of them all: He keeps all His Bones, not one of them is Broken.</p>
+            <p>Q. <hi>Was the</hi> Dead Body <hi>of the</hi> Messiah, <hi>to be <hi>Embalmed,</hi> with</hi> Myrrhe, <hi>and</hi> Aloes, <hi>and <hi>Spices?</hi>
+               </hi>
+            </p>
+            <p>
+               <hi>A. Yes. It is written, Psal. 45.8.</hi> All thy Gar<g ref="char:EOLhyphen"/>ments Smell of Myrrhe, and Aloes.</p>
+            <p>Q. <hi>Was the</hi> Dead Body <hi>of the</hi> Messiah, <hi>to be <hi>Buried,</hi> in the</hi> Tomb <hi>of a <hi>Rich man?</hi>
+               </hi>
+            </p>
+            <p>
+               <hi>A. Yes. It is written, Isa. 53.9.</hi> Tho' they ap<g ref="char:EOLhyphen"/>pointed His Grave with the Wicked, yet it was with the Rich, in His Death.</p>
+            <pb n="16" facs="tcp:63208:9"/>
+            <p>Q. <hi>Was the</hi> Messiah <hi>on the</hi> Third Day <hi>after His Death, to have a <hi>Resurrection from the Dead?</hi>
+               </hi>
+            </p>
+            <p>
+               <hi>A. Yes. It is written, Psal 16.10.</hi> Thou wilt not Suffer thy Holy one to see Corruption. <hi>And again, Hos. 6.2.</hi> After Two Days will He Revive us, in the Third Day He will Raise as up, and we shall Live in His Sight.</p>
+            <p>Q. <hi>Was the</hi> Messiah, <hi>after His</hi> Resurrection, <hi>to <hi>Ascend into the Heavens?</hi>
+               </hi>
+            </p>
+            <p>
+               <hi>A. Yes. It is written, Psal. 68.18.</hi> Thou hast Ascended on High, then hast led Captivity Captive, thou hast Received Gifts for men.</p>
+            <p>Q. <hi>Is the Ascended</hi> Messiah, <hi>to <hi>Sit at the Right Hand of God?</hi>
+               </hi>
+            </p>
+            <p>
+               <hi>A. Yes. It is written, Psal. 110.1.</hi> The Lord said unto my Lord, Sit thou at my Right Hand, un<g ref="char:EOLhyphen"/>til I make thine Enemies thy Foot stool.</p>
+            <p>Q. <hi>Must the</hi> Messiah <hi>be a <hi>Priest?</hi> And this in an higher order of</hi> Priest hood, <hi>than the</hi> Aaro<g ref="char:EOLhyphen"/>nical?</p>
+            <p>
+               <hi>A. Yes. It is written, Psal. 110.4.</hi> The Lord hath Sworn, and will not Repent; Thou art a Priest for ever after the order of Melchisedek</p>
+            <p>Q <hi>Was the</hi> Messiah <hi>to offer a <hi>Sacrifice,</hi> yea, to offer</hi> Himself <hi>a</hi> Sacrifice, <hi>to God, for our</hi> Tres<g ref="char:EOLhyphen"/>passes?</p>
+            <p>
+               <hi>A. Yes. It is written, Isa. 53.10.</hi> Thou shalt make His Soul a Trespass-Offering.</p>
+            <pb n="17" facs="tcp:63208:9"/>
+            <p>Q. <hi>Was the</hi> Messiah, (<hi>as a</hi> Priest <hi>Entring into the</hi> Holy of Holies,) <hi>to make <hi>Intercession</hi> for those, for whom He had been a</hi> Sacrifice?</p>
+            <p>
+               <hi>A. Yes. It is written, Isa. 53.12.</hi> He bare the Sin of many &amp; made Intercession for the Transgressors.</p>
+            <p>Q <hi>Must the</hi> Messiah <hi>have an <hi>Heart</hi> and <hi>Life,</hi> Exactly conformed unto the <hi>Law</hi> of God in all things?</hi>
+            </p>
+            <p>
+               <hi>A. Yes. It is written, Psal. 40.6, 7, 8.</hi> Sacrifice and Offering thou didst not desire, Burnt-Offering and Sin-offering thou hast not Required. Then said I, Lo, I come, I delight to do thy will, O my God yea thy Law is within my Heart. <hi>And again, Isa. 53.9.</hi> He did <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Violence, neither was any Deceit in His mouth.</p>
+            <p>Q. <hi>Must the</hi> Messiah, <hi>Endure the</hi> Essentials <hi>of the <hi>Punishment,</hi> that is due to us, by the</hi> Law <hi>of God, for our Sins?</hi>
+            </p>
+            <p>
+               <hi>A. Yes. It is written, Isa. 53.5, 6.</hi> He was wounded for our Transgressions, He was Bruised for our Iniquities, the Chastisement of our Peace was upon Him, and with His Stripes we are Healed. All we like Sheep have gone astray, we have Turned every one to his own way; and the Lord hath laid on Him the Iniquity of us all.</p>
+            <p>Q. <hi>Is the Active and Passive <hi>Obedience,</hi> which the</hi> Messiah, <hi>becoming our <hi>Surety,</hi> yielded un<g ref="char:EOLhyphen"/>to God for us, the <hi>only Righteousness,</hi> that Sin<g ref="char:EOLhyphen"/>ners may plead with God, for their</hi> Justification?</p>
+            <p>
+               <hi>A. Yes. It is written, Dan. 9.24.</hi> He is to make Reconciliation for Iniquity, and bring in Everlasting
+<pb n="18" facs="tcp:63208:10"/> Righteousness. <hi>And again, Jer. 23.6.</hi> This is His Name, whereby He shall be called, The Lord our Righteousness. <hi>And again, Psal. 71.16.</hi> I will make mention of Thy Righteousness, even of thine only.</p>
+            <p>Q <hi>Is it Only by <hi>Faith</hi> in the</hi> Righteousness <hi>of the</hi> Messiah, <hi>that Sinners come to Enjoy His</hi> Righteousness, <hi>for their</hi> Justification?</p>
+            <p>
+               <hi>A. Yes It is written, Isa. 53.11.</hi> By the know<g ref="char:EOLhyphen"/>ledge of Him shall my Righteous Servant Justify ma<g ref="char:EOLhyphen"/>ny, for He shall bear their Iniquities. <hi>And again, Gen. 15 6.</hi> He Believed in the Lord, and He counted it to Him for Righteousness.</p>
+            <p>Q. <hi>Doth the</hi> Moral Law, <hi>contained in the <hi>Ten Commandments,</hi> continue the Rule of</hi> Life, <hi>to the Children of men? And, will all that the</hi> Messiah <hi>hath</hi> Justifyed, <hi>Ende<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vour all possible</hi> Obedience <hi>to that Rule, &amp; with</hi> Repentance <hi>mourn over all the Defects in their</hi> Obedience?</p>
+            <p>
+               <hi>A. Yes. It is written, Micah 6 8.</hi> He hath shewed thee, O man, what is Good; And what doth the Lord Require of thee, but to Do Justly, and to Love Mercy, and to walk Humbly with thy God?</p>
+            <p>Q. <hi>Is the</hi> Messiah <hi>the Great <hi>Prophet</hi> of His Church?</hi>
+            </p>
+            <p>
+               <hi>A. Yes. It is written, Deut. 18.18, 19.</hi> I will Raise them up a Prophet from among their Bre<g ref="char:EOLunhyphen"/>thren, and will put my words into His mouth, and He shall speak unto them, all that I shall command Him. And it shall come to pass, that whosoever will not Hearken unto my words, which He shall Speak in my Name, I will Require it of him.</p>
+            <pb n="19" facs="tcp:63208:10"/>
+            <p>Q. <hi>Is the</hi> Messiah <hi>the Great <hi>King</hi> of His Church?</hi>
+            </p>
+            <p>
+               <hi>A. Yes. It is written, Psal. 2.6.</hi> I have Set my King upon my Holy Hill of Zion.</p>
+            <p>Q <hi>Must the</hi> Israelitish <hi>Nation for their con<g ref="char:EOLhyphen"/>tempt of the</hi> Messiah, <hi>be made a Contemptible, and a <hi>Miserable Nation?</hi>
+               </hi>
+            </p>
+            <p>
+               <hi>A. Yes It is written, Psal. 69.23, 24, 25, 27.</hi> Let their Eyes be Darkned that they see not, and make their Loins continually to shake; Pour out thine Indig<g ref="char:EOLhyphen"/>nation upon them, and let thy wrathful Anger take Hold of them. Let their Habitation be Desolate, and let none dwell in their Tents. Add Iniquity to their Iniquity, and let them not come into thy Righteousness.</p>
+            <p>Q. <hi>Quickly after the Killing of the</hi> Messiah, <hi>must the</hi> Roman Armies, (<hi>with</hi> Eagles <hi>in their</hi> Ensigns) <hi>bring an horrible <hi>Destruction</hi> upon the</hi> City <hi>and the</hi> Temple, <hi>of the</hi> Jews <hi>that Kill Him?</hi>
+            </p>
+            <p>
+               <hi>A. Yes. It is Written, Dan. 9 26, 27.</hi> Messiah shall be cutt off, but not for Himself: and the People of the Prince that shall come, shall Destroy the City, and the Sanctuary. Abominable Wings, shall cause the Desolation.</p>
+            <p>Q. <hi>Were the</hi> Destroyers <hi>of the</hi> Jews, <hi>to make one of their <hi>Solemn Feasts,</hi> the Season, Occa<g ref="char:EOLhyphen"/>sion, and Advantage of their</hi> Destruction?</p>
+            <p>
+               <hi>A. Yes. It is written, Psal. 69.22.</hi> Let their Table become a Snare before them, and that which should have been for their Welfare, let it become a Trap.</p>
+            <p>Q. <hi>Were the</hi> Destroyers <hi>of the</hi> Jews, <hi>to be partly
+<pb n="20" facs="tcp:63208:11"/>
+                  <hi>Three Factions</hi> among themselves, horribly preying on one another, and partly the</hi> Caesar, <hi>whom they would call their</hi> King?</p>
+            <p>
+               <hi>A. Yes. It is written, Zech. 11.6 8.</hi> Lo, I will deliver the men, every one into his Neighbours Hand, and into the Hand of his King, and they shall Smite the Land; Three Shepheards also I cutt off in one Month: and my Soul loathed them, and their Soul also abhorred me.</p>
+            <p>Q. <hi>Must the utter <hi>Loss of their Genealogies,</hi> be one Special &amp; Signal Article, in the</hi> Destruction, <hi>that comes on the Unbelieving</hi> Jews?</p>
+            <p>
+               <hi>A. Yes. It is written, Psal. 69.28.</hi> Let them be Blotted out of the Book of the Living.</p>
+            <p>Q. <hi>Must the</hi> Destruction, <hi>and the</hi> Dissipation <hi>of the</hi> Jewish Nation, <hi>continue a <hi>Long while</hi> upon it?</hi>
+            </p>
+            <p>
+               <hi>A. Yes. It is written, Hos. 3.4.</hi> The Children of Israel shall abide many Days, without a King, &amp; with<g ref="char:EOLhyphen"/>out a Prince, and without a Sacrifice. <hi>And again, Lev. 26.18, 21, 24, 28.</hi> I will punish you Seven Times more for your Sins. <hi>Again, I</hi> will bring Seven Times more Plagues upon you, according to your Sins. <hi>Again,</hi> I will punish you yet Seven Times for your Sins. <hi>Again,</hi> I, even I, will chastise you Seven Times for your Sins.</p>
+            <p>Q. <hi>When the</hi> Jews <hi>are by God, given up, to</hi> Blindness <hi>of Mind, and</hi> Hardness <hi>of Heart, must the <hi>Gentiles</hi> be brought in, to the Knowledge of God, and His</hi> Messiah?</p>
+            <p>
+               <hi>A. Yes. It is written, Isa 65.1, 2.</hi> I am sought of them, that asked not for me, I am found of them that sought me not; I said, Behold me, Behold me, unto
+<pb n="21" facs="tcp:63208:11"/> a Nation that was not called by my Name. I have spread out my Hands all the Day unto a Rebellious People. <hi>And again Isa. 52.15.</hi> He shall sprinkle many Nations. <hi>And again, Isa 49.6.</hi> I will give thee for a Light to the Gentiles, that thou mayst be my Salvation unto the End of the Earth.</p>
+            <p>Q. <hi>Do's the</hi> Messiah <hi>at His Coming, make the <hi>Temple Service</hi> to Cease, and Abrogating the</hi> Law <hi>of the</hi> Mosaick Rites, <hi>introduce another</hi> Law <hi>prescribing the</hi> Rites <hi>of <hi>Evangelical Worship?</hi>
+               </hi>
+            </p>
+            <p>
+               <hi>A. Yes. It is written, Dan. 9.27.</hi> He shall cause the Sacrifice, and the Oblation to cease. <hi>And, Isa 42.1, 4.</hi> Behold, my Servant, whom I uphold, mine Elect, in whom my Soul delights; I have put my Spirit upon Him, He shall bring forth Judgment unto the Gentiles. And the Isles shall wait for His Law.</p>
+            <p>Q. <hi>Is there any Intimation, That a Sacred pouring of <hi>Water,</hi> and a Sacred using of <hi>Bread</hi> &amp; of <hi>Wine,</hi> are to be the</hi> Rites <hi>which the</hi> Messiah <hi>would make the</hi> Sacraments <hi>of His</hi> Covenant?</p>
+            <p>
+               <hi>A. Yes. It is written, Isa 44 3.</hi> I will pour water upon him that is Thirsty, I will pour my Spirit upon thy Seed, and my Blessing upon thy Offspring. <hi>It is also written, Gen. 14 18.</hi> Melchisedek, the King of Salem, brought forth Bread, and Wine; and he was the Priest of the most High God.</p>
+            <p>Q. <hi>When the</hi> Gentiles, <hi>are by the Faith of the</hi> Messiah, <hi>made the People of God, must there then cease, the <hi>Difference of Meats,</hi> which once made a Distinction between the</hi> Jews <hi>&amp; the</hi> Gentiles, <hi>&amp; are</hi> all Meats <hi>to become Lawful unto</hi> all men?</p>
+            <pb n="22" facs="tcp:63208:12"/>
+            <p>
+               <hi>A. Yes. It Is written, Gen. 9.3.</hi> Every moving Thing, that Liveth, shall be meat for you; even as the green Herb, have I given you all things.</p>
+            <p>Q. <hi>Must the</hi> Fourth Monarchy, <hi>under which the Church of the</hi> Messiah <hi>is to be gathered and afflicted among the Gentiles, be at length divided into <hi>Ten Kingdoms?</hi>
+               </hi>
+            </p>
+            <p>
+               <hi>A. Yes. It is written, Dan. 2.41.</hi> Whereas thou sawest the Feet &amp; the Toes, part of potters clay, and part of Iron, the Kingdom shall be divided. <hi>And again, Dan. 7.7, 24.</hi> Behold, a Fourth Beast, and it had Ten Horns. And the Ten Horns out of this Kingdom, are Ten Kings, that shall aris<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+            <p>Q. <hi>Must there arise among the</hi> Gentiles, <hi>&amp; even in that</hi> Wicked Kingdom <hi>of the</hi> Romans, <hi>a <hi>Little Bishop,</hi> who shall with a</hi> Sharp fighted Craft, <hi>not only Extend his</hi> Temporal Jurissdiction, <hi>over</hi> Three <hi>of the</hi> Ten Kingdoms, <hi>&amp; his more</hi> Spiritual Juris<g ref="char:EOLhyphen"/>diction <hi>over near a</hi> Third Part <hi>of the old</hi> Roman Empire; <hi>but also, blasphemously Assume to himself the</hi> Power <hi>of a</hi> God, <hi>&amp; cruelly persecute the People of</hi> God, <hi>for twelve hundred &amp; sixty years together?</hi>
+            </p>
+            <p>
+               <hi>A. Yes. It is written, Dan. 78, 25.</hi> I considered the Horns, &amp; behold there came up among them another lit<g ref="char:EOLhyphen"/>tle Horn, before whom, there were Three of the First Horns pluckt up by the Roots, &amp; behold, in this Horn, were Eyes, like the Eyes of a man, &amp; a Mouth Speak<g ref="char:EOLhyphen"/>ing great Things. He shall Subdue Three Kings, and he shall speak great words against the most High, and shall wear out the Saints of the most High, and think
+<pb n="23" facs="tcp:63208:12"/> to change Times, &amp; Laws, and they shall be given into his Hand, until a Time, and Times, and Half a Time.</p>
+            <p>Q. <hi>Must the Nation of</hi> Israel, <hi>in the</hi> Latter Days, <hi>be brought in, to the Belief of the <hi>Messiah,</hi> against whom they shall with Incureable Infidelity, Rebel, until those</hi> Dayes?</p>
+            <p>
+               <hi>A. Yes. It is written, Hos. 3.5.</hi> Afterward shall the Children of Israel Return, &amp; Seek the Lord their God, &amp; David their King; and shall fear the Lord, and His Good One, in the Latter Dayes. <hi>And again, Isa. 60 2, 3, 20, 21, 22.</hi> The Lord shall arise upon thee, &amp; His Glory shall be seen upon thee; And the Gentiles shall come to thy light; The Lord shall be thine Ever<g ref="char:EOLhyphen"/>lasting Light, and the Days of thy mourning shall be Ended: Thy people also shall be all Righteous; They shall Inherit the Land for ever. I the Lord will hasten is in His Time.</p>
+            <p>Q. <hi>After the</hi> Four Monarchies <hi>Exhibited in the Visions of</hi> Daniel <hi>are Ended, and particularly the</hi> Papal Empire, <hi>which is the</hi> Fourth, <hi>in the</hi> Last Form <hi>of it, comes to its End, shall the Nation of</hi> Israel, <hi>be Advanced into a great Condition of</hi> Power <hi>and</hi> Glory?</p>
+            <p>
+               <hi>A. Yes. It is written, Dan. 7.23, 26.</hi> The Fourth Beast, shall be the Fourth Kingdom upon Earth; but the Judgment shall Sit, and they shall take away his Dominion, to Consume, &amp; to Destroy it unto the End. And the Kingdom, &amp; Dominion, &amp; the Greatness of the Kingdom under the whole Heaven, shall be given to the People of the Saints of the most High. <hi>And again,
+<pb n="24" facs="tcp:63208:13"/> Mic 4 8</hi> Even the First Dominion, the Kingdom shall come to the Daughter of Je<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>usalem.</p>
+            <p>Q. <hi>Will our Lord</hi> Messiah, <hi>then make His <hi>De<g ref="char:EOLhyphen"/>scent from Heaven,</hi> in Heavenly Glory, and come to the</hi> Eternal <hi>Iudgment <hi>of the World?</hi>
+               </hi>
+            </p>
+            <p>
+               <hi>A. Yes. It is written, Dan 7 9, 10.</hi> I beheld, until the Thrones were pitched down, and the Ancient of Dayes did Sit, whose Garment was white at Snow, and the Hair of His Head like the pure Wool; His Throne was like the Fiery Flame, and His Wheels as Burning Fire. A Fiery Stream issued, and came forth from before Him; Thousands of Thousands Ministred unto Him, and Ten Thousand Times Ten Thousand stood before Him; the Judgment was Set, and the Books were opened.</p>
+            <p>Q <hi>Shall there be a <hi>Resurrection of the Dead,</hi> at the</hi> Descent <hi>of our</hi> Lord Messiah?</p>
+            <p>
+               <hi>A. Yes. It is written, Isa. 26.19.</hi> Thy Dead shall Live, as my Dead Body shal they arise; Awake and Sing ye who dwell in the Dust; for thy Dew, is as the Dew of Herbs, and the Earth shall cast out the Dead.</p>
+            <p>Q. <hi>After the</hi> Resurrection of the Dead, <hi>shall the <hi>Raised Saints,</hi> Eternally <hi>Live</hi> &amp; <hi>Shine</hi> with the</hi> Lord Messiah, <hi>while</hi> Others <hi>are Damned unto</hi> Eternal Confusion?</p>
+            <p>
+               <hi>A. Yes. It is written, Dan. 12.1, 2, 3.</hi> There shall be a Time of Trouble, such as never was, since there was a Nation, even to that same Time. And many from being Sleepers in the Dust of the Earth, shall Awake; some to Everlasting Life, and some to Shame and Everlasting Con<g ref="char:EOLhyphen"/>tempt. And they that be wise, shall Shine as the Brightness of the Firmament, and they that Turn many to Righteous<g ref="char:EOLhyphen"/>ness, as the Stars for ever and ever.</p>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:63208:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
